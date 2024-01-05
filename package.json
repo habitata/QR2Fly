@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "@loskir/styled-qr-code-node": "^1.5.1",
-    "canvas": "^2.11.2",
-    "qrcode": "^1.5.3"
+    "canvas": "^2.11.2"
   }
 }
